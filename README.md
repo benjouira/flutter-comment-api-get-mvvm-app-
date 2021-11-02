@@ -1,1 +1,2 @@
-# flutter-comment-api-get-mvvm-app-
+get api post from jsonplaceholder
+using the mvvm architect
